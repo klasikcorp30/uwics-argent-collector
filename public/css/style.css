@@ -1,0 +1,15 @@
+body{
+    background: #eee !important;
+}
+
+.color{
+    background: #5DBCD2 !important;
+}
+img{
+    display: flex !important;
+    justify-content: center;
+    margin: 20px auto;
+    align-items: center;
+    height: 20%;
+    width: 20%;
+}
