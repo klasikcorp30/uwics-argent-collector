@@ -3,8 +3,7 @@ The Argent Collector is a micro form that communicates data to the Argent Applic
 
 # Argent Collector
 
-> Create full stack apps with React and Express. Run your client and server with a single command. 
-
+> Express & MongoDB form to collect data
 
 ## Quick Start
 
