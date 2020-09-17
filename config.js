@@ -1,3 +1,3 @@
 module.exports = {
-    mongoURI: "mongodb+srv://argentapp:argentapp@argentcluster-lk0oa.mongodb.net/test?retryWrites=true&w=majority"
+   mongoURI: "mongodb://argent01:argent01@ds353457.mlab.com:53457/argent-collector"
 };
